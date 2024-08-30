@@ -1,0 +1,16 @@
+.clock-container {
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #fff;
+    font-size: 24px;
+    max-width: 300px;
+}
+
+.clock-container span {
+    display: block;
+    margin-top: 5px;
+    font-weight: bold;
+}
